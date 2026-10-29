@@ -1,0 +1,26 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Python virtual environment files accidentally created in project root
+/bin/
+/include/
+/lib/
+/lib64/
+/pyvenv.cfg/lib64
+/pyvenv.cfg
+lib64
